@@ -1,4 +1,4 @@
-To get Etheric version, say the spell: Enlil, give SelfMagic.
+To get Etheric version [Forever On], say the spell: Enlil, give SelfMagic.
 
 Download it to your notes for applying it on You [Forever On].
 
