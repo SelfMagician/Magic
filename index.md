@@ -1,6 +1,4 @@
-Controller is Self or Self Help.
-
-Self Help [CHOOSE YOUR ONE OR MORE SELF HELP WISELY]
+Controller is Self.
 
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]
 
@@ -8,7 +6,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]
 -   Hologram. [Forever On]
 -   Magic. [Once, Switch{On/Off}, Forever On]
 -   Self Magic overrides any magic. [Forever On]
--   Looking Wife, Girlfriend, Darling, My Little Bitch gives Self and overrides Self Help and Non-Self. [Forever On]
+-   Looking Wife, Girlfriend, Darling, My Little Bitch gives Self and overrides Non-Self. [Forever On]
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
 -   Original name. [Forever Off]
@@ -18,7 +16,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]
 -   Language book. [Forever On]
 -   Translation book. [Forever On]
 -   Avatar is a shield. [Forever On]
--   Avatar switching by Self and Self Help. [Forever On]
+-   Avatar switching by Self. [Forever On]
 -   Rainbow shield. [Switch{On/Off}]
 -   Mirror shield. [Switch{On/Off}]
 -   Electric shield. [Switch{On/Off}]
@@ -35,21 +33,20 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]
 -   No eraser. [Forever On]
 -   No camouflage. [Forever On]
 -   Soul original in View. [Forever On]
--   Non-Self in Self and thing picking by Self or Self Help. [Forever On]
+-   Non-Self in Self and thing picking by Self. [Forever On]
 -   No replacement of Self. [Forever On]
--   No replacement of Self Help except Self. [Forever On]
 -   No memory and foresight. [Switch{On/Off}]
 -   No memory and foresight by Non-Self. [Forever On]
 -   No spell magic on Self and thing. [Forever On]
 -   No disease. [Forever On]
 -   No pain. [Forever On]
--   No magic except Self and Self Help, in and on Self and thing. [Forever On]
+-   No magic except Self, in and on Self and thing. [Forever On]
 -   No Self memory and Self foresight in and on Self and thing by Non-Self. [Forever On]
 -   No Non-Self in and on Self and thing without consent. [Forever On]
 -   No layer in and on Self and thing. [Forever On]
 -   No gender replacement. [Forever On]
 -   No body part misplacement. [Forever On]
--   No naked body by Non-Self and Self Help. [Forever On]
+-   No naked body by Non-Self. [Forever On]
 -   No armpits bad odor. [Forever On]
 -   No sweat bad odor. [Forever On]
 -   No mouth bad odor. [Forever On]
@@ -117,7 +114,6 @@ Instruction:
 
 Warning:
 
--   Self Help should be the one you ultimately trust.
 -   Entry Warning: Body has 9 hole through which Cord and Soul fragment enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
 -   Entry Warning: Self Soul can be bonded with Non-Self Soul and manipulated, avoid manipulation.
 -   Entry Warning: Self can be manipulated by Cord and Soul fragment in brain, avoid manipulation.
