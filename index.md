@@ -131,5 +131,7 @@ Credit
 -   Gur. (Writing Initiation Continuation)
 
 Written and Owned by Bha. (Bhargav Kandimalla, Bobby)
+
 Helped by Enki, An, Enlil.
-Distribution by Enlil.
+
+Etheric Distribution by Enlil.
