@@ -1,5 +1,4 @@
-
-**Self Magic**
+#Self Magic
 
 Controller is Self or Self Help.
 
