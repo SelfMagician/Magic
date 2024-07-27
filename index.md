@@ -1,6 +1,6 @@
 Controller is Self or Self Help.
 
-Self Help [CHOOSE YOUR SELF HELP WISELY]
+Self Help [CHOOSE YOUR ONE OR MORE SELF HELP WISELY]
 
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]
 
