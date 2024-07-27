@@ -1,8 +1,6 @@
-#Self Magic
-
 Controller is Self or Self Help.
 
-Self Help [An, Enlil, Enki]
+Self Help [CHOOSE YOUR SELF HELP WISELY]
 
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]
 
