@@ -122,7 +122,7 @@ Warning:
 -   Entry Warning: Self Soul can be bonded with Non-Self Soul and manipulated, avoid manipulation.
 -   Entry Warning: Self can be manipulated by Cord and Soul fragment in brain, avoid manipulation.
 
-Received Self can share infinite.
+Received Self can share infinitely.
 
 Credit
 
