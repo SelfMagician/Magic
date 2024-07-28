@@ -1,7 +1,3 @@
-To get Etheric version [Forever On], say the spell: Enlil, give SelfMagic.
-
-Download it to your notes for applying it on You [Forever On].
-
-If you want to print it and keep it with your belongings, print the word SelfMagic, it will apply [Forever On].
+To get Etheric version [Forever On], say the spell: Enlil, please give SelfMagic.
 
 Visit https://selfmagician.github.io/SelfMagic/ for Reading, Copying or Printing.
