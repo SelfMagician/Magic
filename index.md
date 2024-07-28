@@ -79,7 +79,7 @@ Application method:
 
 -   Magic can be applied to Self and Non-Self in Self.
 -   Magic can be applied to thing.
--   Looking point and thinking of when, who and what.
+-   Thinking point and applying.
 -   Shield dimensions can be of choice.
 -   A thing becomes Self thing when looked with eyes by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
 -   Entry applies to Body and 9 hole.
