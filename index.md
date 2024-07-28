@@ -6,7 +6,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]
 -   Hologram. [Forever On]
 -   Magic. [Once, Switch{On/Off}, Forever On]
 -   Self Magic overrides any magic. [Forever On]
--   Looking Wife, Girlfriend, Darling, My Little Bitch gives Self and overrides Non-Self. [Forever On]
+-   Looking and touching Wife, Girlfriend, Darling, My Little Bitch gives Self and overrides Non-Self. [Forever On]
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
 -   Original name. [Forever On]
@@ -82,7 +82,7 @@ Application method:
 -   Thinking point and applying.
 -   Shield dimensions can be of choice.
 -   A thing becomes Self thing when looked with eyes by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
--   Entry applies to Body and 9 hole.
+-   Entry applies to 9 hole.
 -   Non-Self on Self should not crush Self.
 
 Note:
