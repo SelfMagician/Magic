@@ -123,6 +123,7 @@ Credit
 -   Apple. (Device)
 -   Deep. (Writing Initiation)
 -   Gur. (Writing Initiation Continuation)
+-   Brahmin. (Managing)
 
 Written and Owned by Bha. (Bhargav Kandimalla, Bobby)
 
