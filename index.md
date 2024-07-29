@@ -124,7 +124,7 @@ Credit
 -   Apple. (Device)
 -   Deep. (Writing Initiation)
 -   Gur. (Writing Initiation Continuation)
--   Brahmin. (Managing)
+-   Brahmin. (Managing Magic Book)
 -   Movies. (Culture and Language)
 -   Education. (Science and Technology)
  
