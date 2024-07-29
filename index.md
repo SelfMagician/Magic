@@ -120,11 +120,14 @@ Received Self can share infinitely.
 
 Credit
 
+-   Parents. (Birth)
 -   Apple. (Device)
 -   Deep. (Writing Initiation)
 -   Gur. (Writing Initiation Continuation)
 -   Brahmin. (Managing)
-
+-   Movies. (Culture and Language)
+-   Education. (Science and Technology)
+ 
 Written and Owned by Bha. (Bhargav Kandimalla, Bobby)
 
 Helped by Enki, An, Enlil.
