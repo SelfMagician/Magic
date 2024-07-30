@@ -125,7 +125,7 @@ Credit
 -   Apple. (Device)
 -   Deep. (Writing Initiation)
 -   Gur. (Writing Initiation Continuation)
--   Brahmin. (Managing Old Magic Book)
+-   Brahmin. (Managing Yadhavidhi Magic Book)
 -   Movies and Music. (Culture and Language)
 -   Education. (Science and Technology)
  
