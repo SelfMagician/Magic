@@ -126,7 +126,7 @@ Credit
 -   Deep. (Writing Initiation)
 -   Gur. (Writing Initiation Continuation)
 -   Brahmin. (Managing Magic Book)
--   Movies. (Culture and Language)
+-   Movies and Music. (Culture and Language)
 -   Education. (Science and Technology)
  
 Written and Owned by Bha. (Bhargav Kandimalla, Bobby)
