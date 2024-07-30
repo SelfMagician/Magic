@@ -7,7 +7,6 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Hologram. [Forever On]
 -   Avatar. [Once, Switch{On/Off}, Forever On]
 -   Self Magic overrides any magic. [Forever On]
--   Looking and touching Wife, Girlfriend, Darling, My Little Bitch gives Self and overrides Non-Self. [Forever On]
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
 -   Original Name. [Forever On]
@@ -29,6 +28,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Entry. [Switch{On/Off}]
 -   Exit. [Switch{On/Off}]
 -   Eject. [Once]
+-   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self. [Forever On]
 -   No Non-Self magic in and on thing. [Forever On]
 -   No deletion of memory. [Forever On]
 -   Original Soul in Visual View. [Forever On]
@@ -85,7 +85,7 @@ Application methods:
 
 Instructions:
 
--   Wife, Girlfriend, Darling, My Little Bitch is whom you have physical sex.
+-   Wife, Girlfriend, Darling, is whom you have physical sex.
 -   Can increase or decrease Body Energy.
 -   Think Infinite Energy when awake.
 -   Think low Energy if you want to sleep without any dream.
