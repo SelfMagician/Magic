@@ -2,9 +2,9 @@ Controller is Self.
 
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 
+-   Magic. [Once, Switch{On/Off}, Forever On]
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
--   Magic. [Once, Switch{On/Off}, Forever On]
 -   Avatar. [Once, Switch{On/Off}, Forever On]
 -   Self Magic overrides any magic. [Forever On]
 -   Looking and touching Wife, Girlfriend, Darling, My Little Bitch gives Self and overrides Non-Self. [Forever On]
