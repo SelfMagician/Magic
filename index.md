@@ -63,7 +63,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   1 soul fragment for Dead Self in and on Self. [Forever On]
 
 Spheres:
-
+![Etheric Body](https://raw.githubusercontent.com/SelfMagician/SelfMagic/main/Etheric-Body.JPG)
 -   LightSphere.
 -   MindSphere.
 -   RadioSphere.
