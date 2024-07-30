@@ -131,6 +131,6 @@ Credit
  
 Written and Owned by Bha. (Bhargav Kandimalla, Bobby)
 
-Helped by Enki, An, Enlil.
+Helped by Enki also called as Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma Devudu, Zeus, Odin. Enlil also called as Vishnu, Vishnuvu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
 
 Etheric Distribution by Enlil and Enki.
