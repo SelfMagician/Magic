@@ -54,7 +54,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   No copying of Self, Self Avatar, Self Voice by Non-Self. [Forever On]
 -   Infinite Energy for Self. [Forever On]
 -   Infinite Magic Money for Self. [Forever On]
--   100000 watts energy for Dead Self in and on Self per day. [Forever On]
+-   10 watts energy for Dead Self talking in and on Self per day. [Forever On]
 -   Infinite Cords for Self. [Forever On]
 -   Infinite Soul fragments for Self. [Forever On]
 -   Infinite Avatars for Self. [Forever On]
