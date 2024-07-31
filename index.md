@@ -58,7 +58,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Infinite Cords for Self. [Forever On]
 -   Infinite Soul fragments for Self. [Forever On]
 -   Infinite Avatars for Self. [Forever On]
--   1 cord for Non-Self in and on Self. [Forever On]
+-   1 cord for Non-Self (Not Dead Self) in and on Self. [Forever On]
 -   0 soul fragments for Non-Self in and on Self. [Forever On]
 -   1 soul fragment for Dead Self in and on Self. [Forever On]
 
