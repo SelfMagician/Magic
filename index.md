@@ -108,6 +108,7 @@ Notes:
 
 -   Dead Self is included where Non-Self is mentioned.
 -   Being Self Alone is the best way to live (Eject All).
+-   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 
 Rules:
 
