@@ -43,9 +43,9 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   No Gender replacement. [Forever On]
 -   No Body part misplacement. [Forever On]
 -   No Naked Body by Non-Self. [Forever On]
--   No Body bad odor. [Forever On]
--   No Piss bad odor. [Forever On]
--   No Poop bad odor. [Forever On]
+-   No Body odor. [Forever On]
+-   No Piss odor. [Forever On]
+-   No Poop odor. [Forever On]
 -   Breath control by Self. [Forever On]
 -   Eye lid control by Self. [Forever On]
 -   Poop control by Self. [Forever On]
@@ -72,9 +72,9 @@ Spheres:
 -   CreationSphere.
 -   TransformationSphere.
 
-Application methods:
+Instructions:
 
--   Entry applies to 9 holes.
+-   Entry and Exit applies to 9 holes of Body.
 -   Can use Magic not mentioned here.
 -   Magic can be applied to Self and Non-Self in Self.
 -   Magic can be applied to thing.
@@ -82,9 +82,6 @@ Application methods:
 -   Shield dimensions can be of choice.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
 -   Non-Self on Self should be beyond Self dimensions.
-
-Instructions:
-
 -   Wife, Girlfriend, Darling, is whom you have physical sex.
 -   Can increase or decrease Body Energy.
 -   Think Infinite Energy when awake.
@@ -111,19 +108,27 @@ Notes:
 
 -   Dead Self is included where Non-Self is mentioned.
 
-Credits:
+Rules:
 
--   Parents. (Birth)
--   Apple. (Device)
--   Deep. (Writing Initiation)
--   Gur. (Writing Initiation Continuation)
--   Brahmin. (Managing Yadhavidhi Magic Book)
--   Movies and Music. (Culture and Language)
--   Education. (Science and Technology)
- 
+-   Self Alone.
+-   Soul history on display.
+-   Heal Self and Non-Self.
+-   Consent is priority.
+-   Original personal identity.
+-   Do not infiltrate.
+-   Do not enslave.
+-   Do not lie.
+-   Do not hurt life.
+-   Do not compare Self.
+-   Do not beg.
+-   Battle with honor.
+
+Punishment:
+-   Banishment from Entertainment.
+
 Written and Owned by Bha. (Bhargav Kandimalla, Bobby)
 
 Helped by Enki also called as Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma Devudu, Zeus, Odin. Enlil also called as Vishnu, Vishnuvu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
 
-Etheric Distribution by Enlil and Enki.
+Etheric Distribution by Enki and Enlil.
 
