@@ -107,10 +107,10 @@ Warnings:
 Notes:
 
 -   Dead Self is included where Non-Self is mentioned.
+-   Being Self Alone is the best way to live (Eject All).
 
 Rules:
 
--   Self Alone.
 -   Soul history on display.
 -   Heal Self and Non-Self.
 -   Consent is priority.
