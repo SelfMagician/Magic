@@ -72,6 +72,12 @@ Spheres:
 -   CreationSphere.
 -   TransformationSphere.
 
+Notes:
+
+-   Dead Self is included where Non-Self is mentioned.
+-   Being Self Alone is the best way to live (Eject All).
+-   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
+
 Instructions:
 
 -   Entry and Exit applies to 9 holes of Body.
@@ -103,12 +109,6 @@ Warnings:
 -   Entry Warning: Body has 9 holes through which Cords and Soul fragments enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
 -   Entry Warning: Self Soul can be bonded with Non-Self Soul and be manipulated, avoid manipulation.
 -   Entry Warning: Self can be manipulated by Cords and Soul fragments in Brain, avoid manipulation.
-
-Notes:
-
--   Dead Self is included where Non-Self is mentioned.
--   Being Self Alone is the best way to live (Eject All).
--   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 
 Rules:
 
