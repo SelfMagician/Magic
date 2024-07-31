@@ -51,7 +51,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Poop control by Self. [Forever On]
 -   Piss control by Self. [Forever On]
 -   Clean and white teeth. [Forever On]
--   No copying of Self, Self Avatar, Self Voice by Non-Self. [Forever On]
+-   No copying of Self, Self Avatars, Self Voice by Non-Self. [Forever On]
 -   Infinite Energy for Self. [Forever On]
 -   Infinite Magic Money for Self. [Forever On]
 -   10 watts energy for Dead Self talking in and on Self per day. [Forever On]
