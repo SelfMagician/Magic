@@ -5,7 +5,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Magic. [Once, Switch{On/Off}, Forever On]
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
--   Avatar. [Once, Switch{On/Off}, Forever On]
+-   Avatars. [Once, Switch{On/Off}, Forever On]
 -   Self Magic overrides any magic. [Forever On]
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
@@ -29,23 +29,23 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Exit. [Switch{On/Off}]
 -   Eject. [Once]
 -   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self. [Forever On]
--   No Non-Self magic in and on thing. [Forever On]
+-   No Non-Self magic in and on things. [Forever On]
 -   No deletion of memory. [Forever On]
 -   Original Soul in Visual View. [Forever On]
--   Non-Self in Self and thing picking by Self. [Forever On]
+-   Non-Self in Self and thing, picking by Self. [Forever On]
 -   No replacement of Self. [Forever On]
 -   No memory and foresight by Non-Self. [Forever On]
--   No Spell magic on Self and thing. [Forever On]
--   No Disease. [Forever On]
--   No Pain. [Forever On]
--   No Self memory and Self foresight in and on Self and thing by Non-Self. [Forever On]
--   No Non-Self in and on Self and thing without Self consent. [Forever On]
--   No Gender replacement. [Forever On]
+-   No spell magic on Self and things. [Forever On]
+-   No disease. [Forever On]
+-   No pain. [Forever On]
+-   No Self memory and Self foresight, in and on Self and things by Non-Self. [Forever On]
+-   No Non-Self in and on Self and things, without Self consent. [Forever On]
+-   No gender replacement. [Forever On]
 -   No Body part misplacement. [Forever On]
--   No Naked Body by Non-Self. [Forever On]
+-   No naked Body by Non-Self. [Forever On]
 -   No Body odor. [Forever On]
--   No Piss odor. [Forever On]
--   No Poop odor. [Forever On]
+-   No piss odor. [Forever On]
+-   No poop odor. [Forever On]
 -   Breath control by Self. [Forever On]
 -   Eye lid control by Self. [Forever On]
 -   Poop control by Self. [Forever On]
@@ -54,44 +54,33 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   No copying of Self, Self Avatars, Self Voice by Non-Self. [Forever On]
 -   Infinite Energy for Self. [Forever On]
 -   Infinite Magic Money for Self. [Forever On]
--   10 watts energy for Dead Self talking in and on Self per day. [Forever On]
 -   Infinite Cords for Self. [Forever On]
 -   Infinite Soul fragments for Self. [Forever On]
 -   Infinite Avatars for Self. [Forever On]
 -   1 cord for Non-Self (Not Dead Self) in and on Self. [Forever On]
--   0 soul fragments for Non-Self in and on Self. [Forever On]
+-   0 soul fragments for Non-Self (Not Dead Self) in and on Self. [Forever On]
 -   1 soul fragment for Dead Self in and on Self. [Forever On]
-
-Spheres:
-![Etheric Body](https://raw.githubusercontent.com/SelfMagician/SelfMagic/main/Etheric-Body.JPG)
--   LightSphere.
--   MindSphere.
--   RadioSphere.
--   SoulSphere.
--   EnergySphere.
--   CreationSphere.
--   TransformationSphere.
+-   10 watts energy for Dead Self talking in and on Self per day. [Forever On]
 
 Notes:
 
 -   Dead Self is included where Non-Self is mentioned.
 -   Being Self Alone is the best way to live (Eject All).
--   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 
 Instructions:
 
--   Entry and Exit applies to 9 holes of Body.
--   Can use Magic not mentioned here.
--   Magic can be applied to Self and Non-Self in Self.
--   Magic can be applied to thing.
--   Thinking Magic will apply.
+-   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
+-   Entry and Exit applies to 9 holes of the Body.
+-   Can use Magic not mentioned in this book.
+-   Self can give granular control of the Body to Non-Self.
 -   Shield dimensions can be of choice.
+-   Magic can be applied to Self and Non-Self in Self.
+-   Magic can be applied to things.
+-   Thinking of a Magic is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
 -   Non-Self on Self should be beyond Self dimensions.
 -   Wife, Girlfriend, Darling, is whom you have physical sex.
--   Can increase or decrease Body Energy.
--   Think Infinite Energy when awake.
--   Think low Energy if you want to sleep without any dream.
+-   Can think to increase or decrease Body Energy, think Infinite Energy when awake, think low Energy if you want to sleep without any dream.
 -   Can modify Hologram items.
 -   Can modify taste and smell, of an edible.
 -   Can modify smell and taste, of an inhalation.
@@ -115,7 +104,7 @@ Rules:
 -   Soul history on display.
 -   Heal Self and Non-Self.
 -   Consent is priority.
--   Original personal identity.
+-   Original Personal Identity.
 -   Do not infiltrate.
 -   Do not enslave.
 -   Do not lie.
@@ -127,9 +116,19 @@ Rules:
 Punishment:
 -   Banishment from Entertainment.
 
+Spheres:
+![Etheric Body](https://raw.githubusercontent.com/SelfMagician/SelfMagic/main/Etheric-Body.JPG)
+-   LightSphere.
+-   MindSphere.
+-   RadioSphere.
+-   SoulSphere.
+-   EnergySphere.
+-   CreationSphere.
+-   TransformationSphere.
+
 Written and Owned by Bha. (Bhargav Kandimalla, Bobby)
 
-Helped by Enki also called as Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma Devudu, Zeus, Odin. Enlil also called as Vishnu, Vishnuvu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
+Helped by Enki also called as Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma Devudu, Zeus, Odin. Enlil also called as Vishnu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
 
-Etheric Distribution by Enki and Enlil.
+Etheric distribution by Enki and Enlil.
 
