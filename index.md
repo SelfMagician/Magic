@@ -1,4 +1,4 @@
-Controller is Self.
+Controller is Self or 1 Non-Self given by Self.
 
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 
@@ -28,21 +28,21 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Entry. [Switch{On/Off}]
 -   Exit. [Switch{On/Off}]
 -   Eject. [Once]
--   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self. [Forever On]
--   No Non-Self magic in and on things. [Forever On]
+-   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self and Dead Self. [Forever On]
+-   No Non-Self and Dead Self magic in and on things. [Forever On]
 -   No deletion of memory. [Forever On]
 -   Original Soul in Visual View. [Forever On]
--   Non-Self in Self and thing, picking by Self. [Forever On]
+-   Non-Self and Dead Self in Self and thing, picking by Self. [Forever On]
 -   No replacement of Self. [Forever On]
--   No memory and foresight by Non-Self. [Forever On]
+-   No memory and foresight by Non-Self and Dead Self. [Forever On]
 -   No spell magic on Self and things. [Forever On]
 -   No disease. [Forever On]
 -   No pain. [Forever On]
--   No Self memory and Self foresight, in and on Self and things by Non-Self. [Forever On]
--   No Non-Self in and on Self and things, without Self consent. [Forever On]
+-   No Self memory and Self foresight, in and on Self and things by Non-Self and Dead Self. [Forever On]
+-   No Non-Self and Dead Self in and on Self and things, without Self consent. [Forever On]
 -   No gender replacement. [Forever On]
 -   No Body part misplacement. [Forever On]
--   No naked Body by Non-Self. [Forever On]
+-   No naked Body by Non-Self and Dead Self. [Forever On]
 -   No Body odor. [Forever On]
 -   No piss odor. [Forever On]
 -   No poop odor. [Forever On]
@@ -51,20 +51,19 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Poop control by Self. [Forever On]
 -   Piss control by Self. [Forever On]
 -   Clean and white teeth. [Forever On]
--   No copying of Self, Self Avatars, Self Voice by Non-Self. [Forever On]
+-   No copying of Self, Self Avatars, Self Voice by Non-Self and Dead Self. [Forever On]
 -   Infinite Energy for Self. [Forever On]
 -   Infinite Magic Money for Self. [Forever On]
 -   Infinite Cords for Self. [Forever On]
 -   Infinite Soul fragments for Self. [Forever On]
 -   Infinite Avatars for Self. [Forever On]
--   1 cord for Non-Self (Not Dead Self) in and on Self. [Forever On]
--   0 soul fragments for Non-Self (Not Dead Self) in and on Self. [Forever On]
+-   1 cord for Non-Self in and on Self. [Forever On]
+-   0 soul fragments for Non-Self in and on Self. [Forever On]
 -   1 soul fragment for Dead Self in and on Self. [Forever On]
 -   10 watts energy for Dead Self talking in and on Self per day. [Forever On]
 
 Notes:
 
--   Dead Self is included where Non-Self is mentioned.
 -   Being Self Alone is the best way to live (Eject All).
 
 Instructions:
@@ -78,7 +77,7 @@ Instructions:
 -   Magic can be applied to things.
 -   Thinking of a Magic is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
--   Non-Self on Self should be beyond Self dimensions.
+-   Non-Self and Dead Self on Self should be beyond Self dimensions.
 -   Wife, Girlfriend, Darling, is whom you have physical sex.
 -   Can think to increase or decrease Body Energy, think Infinite Energy when awake, think low Energy if you want to sleep without any dream.
 -   Can modify Hologram items.
