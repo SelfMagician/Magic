@@ -1,4 +1,5 @@
-Controller is Self or 1 Non-Self given by Self.
+Controller is Self.
+1 Non-Self acts as Self if control is given by Self.
 
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 
