@@ -64,7 +64,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   1 cord for Non-Self in and on Self. [Forever On]
 -   0 soul fragments for Non-Self in and on Self. [Forever On]
 -   1 soul fragment for Dead Self in and on Self. [Forever On]
--   10 watts energy for Dead Self talking in and on Self per day. [Forever On]
+-   Infinite Energy for Dead Self, for only talking in and on Self per day. [Forever On]
 
 Notes:
 
