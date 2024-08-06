@@ -1,3 +1,5 @@
+This is the only Magic book.
+
 Controller is Self.
 
 1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
