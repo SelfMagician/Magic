@@ -13,7 +13,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Self Magic overrides any magic. [Forever On]
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
--   Original Name. [Forever On]
+-   Original Names. [Forever On]
 -   Original Personal Identity with white color. [Forever On]
 -   Avatar Name. [Forever On]
 -   Avatar is Electric shield. [Forever On]
