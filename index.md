@@ -23,6 +23,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Rainbow shield. [Switch{On/Off}]
 -   Mirror shield. [Switch{On/Off}]
 -   Electric shield. [Switch{On/Off}]
+-   Electric shield with Eject All. [Switch{On/Off}]
 -   Invisible shield. [Switch{On/Off}]
 -   Delete. [Switch{On/Off}]
 -   Stop. [Switch{On/Off}]
