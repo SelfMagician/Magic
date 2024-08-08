@@ -14,7 +14,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
 -   Original Names. [Forever On]
--   Original Personal Identity with white color. [Forever On]
+-   Original Personal Identity with creamy white color. [Forever On]
 -   Avatar Name. [Forever On]
 -   Avatar is Electric shield. [Forever On]
 -   Avatar modification by Self. [Forever On]
