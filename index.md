@@ -70,7 +70,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 Notes:
 
 -   Being Self Alone is the best way to live (Eject All).
--   When Non-Self and Dead Self is mentioned, it means any Non-Self and Dead Self.
+-   Where Non-Self and Dead Self is mentioned, it means any Non-Self and Dead Self.
 
 Instructions:
 
