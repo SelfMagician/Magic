@@ -79,7 +79,6 @@ Instructions:
 -   Can use Magic not mentioned in this book.
 -   Self can give granular control of the Body to Non-Self.
 -   Shield dimensions can be of choice.
--   Magic can be applied to Self and Non-Self in Self.
 -   Magic can be applied to things.
 -   Thinking of a Magic is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
