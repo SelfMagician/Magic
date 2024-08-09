@@ -76,6 +76,7 @@ Instructions:
 
 -   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 -   Entry and Exit applies to 9 holes of the Body.
+-   Put Magic in a corner of your head.
 -   Can use Magic not mentioned in this book.
 -   Self can give granular control of the Body to Non-Self.
 -   Shield dimensions can be of choice.
