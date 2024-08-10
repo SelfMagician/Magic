@@ -4,9 +4,8 @@ Controller is Self.
 
 1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
 
-Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
+Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 
--   Magic. [Once, Switch{On/Off}, Forever On]
 -   No replacement of Self. [Forever On]
 -   Acting Self. [Switch{On/Off}]
 -   Visual View. [Forever On]
