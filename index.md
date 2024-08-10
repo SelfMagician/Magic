@@ -34,7 +34,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Exit. [Switch{On/Off}]
 -   Eject. [Once]
 -   Souls, Soul fragments and Cords color. [Forever On]
--   Head top ring color for Non-Self and Dead Self. [Forever On]
+-   Head top ring with color for Non-Self and Dead Self. [Forever On]
 -   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self and Dead Self. [Forever On]
 -   No Non-Self and Dead Self magic in and on things. [Forever On]
 -   No deletion of memory. [Forever On]
