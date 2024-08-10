@@ -131,7 +131,7 @@ Spheres:
 -   CreationSphere.
 -   TransformationSphere.
 
-Written and Owned by Un. (Bha, Bhargav Kandimalla, Bobby, Nobody)
+Written and Owned by Un. (Bha, Bhargav Kandimalla, Bobby)
 
 Helped by Ke also called as Enki, Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma, Zeus, Odin. En also called as Enlil, Vishnu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
 
