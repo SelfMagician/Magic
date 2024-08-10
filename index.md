@@ -33,7 +33,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Entry. [Switch{On/Off}]
 -   Exit. [Switch{On/Off}]
 -   Eject. [Once]
--   Soul and Cord color. [Switch{On/Off}]
+-   Soul and Cord color. [Forever On]
 -   Head top ring with Soul and Cord color. [Switch{On/Off}]
 -   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self and Dead Self. [Forever On]
 -   No Non-Self and Dead Self magic in and on things. [Forever On]
