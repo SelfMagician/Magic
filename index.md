@@ -37,7 +37,7 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Head top ring with color for Non-Self and Dead Self. [Forever On]
 -   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self and Dead Self. [Forever On]
 -   No Non-Self and Dead Self magic in and on Self and things. [Forever On]
--   No deletion of memory. [Forever On]
+-   No deletion of memory by Non-Self and Dead Self. [Forever On]
 -   Original Soul in Visual View. [Forever On]
 -   Non-Self and Dead Self in Self and thing, picking by Self. [Forever On]
 -   No replacement of Self. [Forever On]
