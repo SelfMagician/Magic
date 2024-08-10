@@ -133,7 +133,7 @@ Spheres:
 
 Written and Owned by Un. (Bha, Bhargav Kandimalla, Bobby, Nobody)
 
-Helped by Enki also called as Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma Devudu, Zeus, Odin. Enlil also called as Vishnu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
+Helped by Ke also called as Enki, Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma, Zeus, Odin. En also called as Enlil, Vishnu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
 
-Etheric distribution by Enki and Enlil.
+Etheric distribution by Ke and En.
 
