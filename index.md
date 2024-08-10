@@ -7,6 +7,7 @@ Controller is Self.
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 
 -   Magic. [Once, Switch{On/Off}, Forever On]
+-   Acting Self. [Switch{On/Off}]
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
 -   Avatars. [Once, Switch{On/Off}, Forever On]
