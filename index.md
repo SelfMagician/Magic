@@ -7,6 +7,7 @@ Controller is Self.
 Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 
 -   Magic. [Once, Switch{On/Off}, Forever On]
+-   No replacement of Self. [Forever On]
 -   Acting Self. [Switch{On/Off}]
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
@@ -38,8 +39,6 @@ Forever and Ever Magic, in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self and Dead Self. [Forever On]
 -   No Non-Self and Dead Self magic in and on Self and things. [Forever On]
 -   No deletion of memory by Non-Self and Dead Self. [Forever On]
--   Original Soul in Visual View. [Forever On]
--   No replacement of Self. [Forever On]
 -   No memory and foresight by Non-Self and Dead Self. [Forever On]
 -   No spell magic by Non-Self and Dead Self on Self and things. [Forever On]
 -   No Self memory and Self foresight, in and on Self and things by Non-Self and Dead Self. [Forever On]
