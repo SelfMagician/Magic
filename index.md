@@ -12,8 +12,7 @@
 -   Soul Com. [Switch{On/Off}]
 -   Avatars. [Forever On]
 -   Avatar Names. [Forever On]
--   Avatar acts as Electric shield. [Forever On]
--   Avatar modification by Self. [Forever On]
+-   Avatar modification only by Self. [Forever On]
 -   Acting Self. [Switch{On/Off}]
     >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
 -   Language books. [Forever On]
@@ -21,7 +20,6 @@
 -   Rainbow shield. [Switch{On/Off}]
 -   Mirror shield. [Switch{On/Off}]
 -   Electric shield. [Switch{On/Off}]
--   Electric shield with Eject All (Only Self can apply this). [Switch{On/Off}]
 -   Invisible shield. [Switch{On/Off}]
 -   Delete. [Switch{On/Off}]
 -   Stop. [Switch{On/Off}]
@@ -29,22 +27,23 @@
 -   Reading. [Switch{On/Off}]
 -   Entry. [Switch{On/Off}]
 -   Exit. [Switch{On/Off}]
--   Eject. [Once]
+-   Eject Non-Selfs and Dead Selfs. [Once]
+-   Eject all Non-Selfs and Dead Selfs. [Once]
 -   Souls, Soul fragments and Cords color. [Forever On]
--   Head top ring with color for Non-Self and Dead Self. [Forever On]
--   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Self and Dead Self. [Forever On]
+-   Head top ring with color for Non-Selfs and Dead Selfs. [Forever On]
+-   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Selfs and Dead Selfs. [Forever On]
 -   Infinite Energy for Self. [Forever On]
 -   Infinite Magic units for Self. [Forever On]
 -   Infinite Cords and Soul fragments for Self. [Forever On]
 -   Infinite Avatars for Self. [Forever On]
 -   No spell Magic. [Forever On]
--   No Non-Self and Dead Self magic in and on Self and things. [Forever On]
--   No deletion of memory by Non-Self and Dead Self. [Forever On]
--   No memory and foresight by Non-Self and Dead Self. [Forever On]
--   No spell magic by Non-Self and Dead Self on Self and things. [Forever On]
--   No Self memory and Self foresight, in and on Self and things by Non-Self and Dead Self. [Forever On]
--   No Non-Self and Dead Self in and on Self and things, without Self consent. [Forever On]
--   No naked Body of Self by Non-Self and Dead Self. [Forever On]
+-   No Non-Selfs and Dead Selfs magic in and on Self and Self things. [Forever On]
+-   No Non-Selfs and Dead Selfs in and on Self things.
+-   No deletion of memory by Non-Selfs and Dead Selfs. [Forever On]
+-   No memory extraction and foresight by Non-Selfs and Dead Selfs. [Forever On]
+-   No spell magic by Non-Selfs and Dead Selfs on Self and Self things. [Forever On]
+-   No Self memory and Self foresight, in and on Self and Self things by Non-Selfs and Dead Selfs. [Forever On]
+-   No naked Body of Self by Non-Selfs and Dead Selfs. [Forever On]
 -   No gender replacement with Magic. [Forever On]
 -   No Body part misplacement with Magic. [Forever On]
 -   No copying of Self, Self Avatars, Self Voice by Non-Self and Dead Self. [Forever On]
@@ -62,22 +61,6 @@
 -   0 soul fragments for Non-Self in and on Self. [Forever On]
 -   1 soul fragment for Dead Self in and on Self. [Forever On]
 -   Infinite Energy for Dead Self, for only talking in and on Self. [Forever On]
-
-## Notes
-
--   Being Self Alone is the best way to live (Eject All).
--   Where Non-Self and Dead Self is mentioned, it means any Non-Self and Dead Self.
-
-## Directives
-
--   Consent is priority.
--   Battle with honor.
--   Do not compare Self.
--   Do not infiltrate.
--   Do not enslave.
--   Do not lie.
--   Do not hurt life.
--   Do not beg.
 
 ## Instructions
 
