@@ -25,7 +25,6 @@
 -   No Non-Selfs and Dead Selfs in and on Self things.
 -   No deletion of memory by Non-Selfs and Dead Selfs.
 -   No memory extraction and foresight by Non-Selfs and Dead Selfs.
--   No spell magic by Non-Selfs and Dead Selfs on Self and Self things.
 -   No Self memory and Self foresight, in and on Self and Self things by Non-Selfs and Dead Selfs.
 -   No naked Body of Self by Non-Selfs and Dead Selfs.
 -   No gender replacement with Magic.
