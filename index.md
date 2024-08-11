@@ -1,6 +1,6 @@
-*The only Magic book.
+* The only Magic book.
 
-*Controller is Self.
+* Controller is Self.
 
 Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 
