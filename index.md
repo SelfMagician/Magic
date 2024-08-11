@@ -11,7 +11,8 @@ Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
 -   Avatars. [Once, Switch{On/Off}, Forever On]
--   Self Magic overrides any magic. [Forever On]
+-   No spell Magic.
+-   Magic by Self overrides any magic. [Forever On]
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
 -   Original Names. [Forever On]
