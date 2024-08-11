@@ -4,8 +4,6 @@ Controller is Self.
 
 Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 
--   No replacement of Self. [Forever On]
--   
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
 -   Original Names. [Forever On]
