@@ -1,5 +1,3 @@
-# The only Magic book.
-
 # Controller is Self.
 
 ## Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
@@ -64,12 +62,12 @@
 -   1 soul fragment for Dead Self in and on Self. [Forever On]
 -   Infinite Energy for Dead Self, for only talking in and on Self. [Forever On]
 
-Notes:
+## Notes:
 
 -   Being Self Alone is the best way to live (Eject All).
 -   Where Non-Self and Dead Self is mentioned, it means any Non-Self and Dead Self.
 
-Instructions:
+## Instructions:
 
 -   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 -   Entry and Exit applies to 9 holes of the Body.
@@ -95,30 +93,24 @@ Instructions:
 -   Can modify sweat fragrance.
 -   Can modify mouth fragrance.
 
-Warnings:
+## Warnings:
 
 -   Entry Warning: Body has 9 holes through which Cords and Soul fragments enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
 -   Entry Warning: Self Soul can be bonded with Non-Self Soul and be manipulated, avoid manipulation.
 -   Entry Warning: Self can be manipulated by Cords and Soul fragments in Brain, avoid manipulation.
 
-Rules:
+## Directives:
 
--   Soul history on display.
--   Heal Self and Non-Self.
 -   Consent is priority.
--   Original Personal Identity.
+-   Battle with honor.
+-   Do not compare Self.
 -   Do not infiltrate.
 -   Do not enslave.
 -   Do not lie.
 -   Do not hurt life.
--   Do not compare Self.
 -   Do not beg.
--   Battle with honor.
 
-Punishment:
--   Banishment from Entertainment.
-
-Spheres:
+## Spheres:
 ![Etheric Body](https://raw.githubusercontent.com/SelfMagician/SelfMagic/main/Etheric-Body.JPG)
 -   LightSphere.
 -   MindSphere.
@@ -133,4 +125,3 @@ Written and Owned by Un also called as Bha, Bhargav Kandimalla, Bobby.
 Helped by Ke also called as Enki, Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma, Zeus, Odin. En also called as Enlil, Vishnu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
 
 Etheric distribution by Ke and En.
-
