@@ -85,7 +85,7 @@
 -   Put Magic in a corner of your head.
 -   Can use Magic not mentioned in these instructions.
 -   Shield dimensions can be of choice upto 1 meter from skin.
--   Magic can be applied to things.
+-   Magic can be applied to Self things.
 -   Thinking Magic and applying with a trigger is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
 -   Wife, Girlfriend, Darling, is whom you have physical sex.
