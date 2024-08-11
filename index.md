@@ -1,25 +1,25 @@
-This is the only Magic book.
+The only Magic book.
 
 Controller is Self.
-
-1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
 
 Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 
 -   No replacement of Self. [Forever On]
--   Acting Self. [Switch{On/Off}]
+-   
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
--   Avatars. [Forever On]
+-   Original Names. [Forever On]
+-   Original Personal Identity with creamy white color. [Forever On]
 -   No spell Magic. [Forever On]
 -   Magic by Self overrides any magic. [Forever On]
 -   Com. [Switch{On/Off}]
 -   Soul Com. [Switch{On/Off}]
--   Original Names. [Forever On]
--   Original Personal Identity with creamy white color. [Forever On]
--   Avatar Name. [Forever On]
--   Avatar is Electric shield. [Forever On]
+-   Avatars. [Forever On]
+-   Avatar Names. [Forever On]
+-   Avatar acts as Electric shield. [Forever On]
 -   Avatar modification by Self. [Forever On]
+-   Acting Self. [Switch{On/Off}]
+>   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
 -   Language books. [Forever On]
 -   Translation books. [Forever On]
 -   Rainbow shield. [Switch{On/Off}]
@@ -58,7 +58,7 @@ Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Piss control by Self. [Forever On]
 -   Clean and white teeth. [Forever On]
 -   Infinite Energy for Self. [Forever On]
--   Infinite Magic Money for Self. [Forever On]
+-   Infinite Magic units for Self. [Forever On]
 -   Infinite Cords for Self. [Forever On]
 -   Infinite Soul fragments for Self. [Forever On]
 -   Infinite Avatars for Self. [Forever On]
