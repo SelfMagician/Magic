@@ -1,77 +1,81 @@
-## The only Magic book
+## The Only Magic Book
 **Self is the controller.**
 
-## Magic in 3 modes [Once, Switch{On/Off}, Forever On]
+## Magic Switched On Forever
 
--   Magic by Self overrides any magic. [Forever On]
--   Visual View. [Forever On]
--   Hologram. [Forever On]
--   Original Names. [Forever On]
--   Original Personal Identity with creamy white color. [Forever On]
--   Com. [Switch{On/Off}]
--   Soul Com. [Switch{On/Off}]
--   Avatars. [Forever On]
--   Avatar Names. [Forever On]
--   Self things. [Forever On]
--   Acting Self. [Switch{On/Off}]
-    >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
--   Language books. [Forever On]
--   Translation books. [Forever On]
--   Rainbow shield. [Switch{On/Off}]
--   Mirror shield. [Switch{On/Off}]
--   Electric shield. [Switch{On/Off}]
--   Delete. [Switch{On/Off}]
--   Stop. [Switch{On/Off}]
--   Invisible. [Switch{On/Off}]
--   Entry. [Switch{On/Off}]
--   Exit. [Switch{On/Off}]
--   Eject Non-Selfs and Dead Selfs. [Once]
--   Eject all Non-Selfs and Dead Selfs. [Once]
--   Souls, Soul fragments and Cords color. [Forever On]
--   Head top ring with color for Non-Selfs and Dead Selfs. [Forever On]
--   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Selfs and Dead Selfs. [Forever On]
--   Infinite Energy for Self. [Forever On]
--   Infinite Magic units for Self. [Forever On]
--   Infinite Cords and Soul fragments for Self. [Forever On]
--   Infinite Avatars for Self. [Forever On]
--   No spell Magic. [Forever On]
--   No Non-Selfs and Dead Selfs magic in and on Self and Self things. [Forever On]
+-   Magic by Self overrides any magic.
+-   Visual View.
+-   Hologram.
+-   Original Names.
+-   Original personal identity with creamy white color.
+-   Avatars.
+-   Avatar Names.
+-   Self things.
+-   Language books.
+-   Translation books.
+-   Souls, Soul fragments and Cords color.
+-   Head top ring with color for Non-Selfs and Dead Selfs.
+-   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Selfs and Dead Selfs.
+-   Infinite Energy for Self.
+-   Infinite Magic units for Self.
+-   Infinite Cords and Soul fragments for Self.
+-   Infinite Avatars for Self.
+-   No spell Magic.
+-   No Non-Selfs and Dead Selfs magic in and on Self and Self things.
 -   No Non-Selfs and Dead Selfs in and on Self things.
--   No deletion of memory by Non-Selfs and Dead Selfs. [Forever On]
--   No memory extraction and foresight by Non-Selfs and Dead Selfs. [Forever On]
--   No spell magic by Non-Selfs and Dead Selfs on Self and Self things. [Forever On]
--   No Self memory and Self foresight, in and on Self and Self things by Non-Selfs and Dead Selfs. [Forever On]
--   No naked Body of Self by Non-Selfs and Dead Selfs. [Forever On]
--   No gender replacement with Magic. [Forever On]
--   No Body part misplacement with Magic. [Forever On]
--   No copying of Self Avatar, Avatars, Self Voice frequency by Non-Selfs and Dead Selfs. [Forever On]
--   No disease. [Forever On]
--   No pain. [Forever On]
--   No Body odor. [Forever On]
--   No piss odor. [Forever On]
--   No poop odor. [Forever On]
--   Breath control by Self. [Forever On]
--   Eye lid control by Self. [Forever On]
--   Poop control by Self. [Forever On]
--   Piss control by Self. [Forever On]
--   Clean and white teeth. [Forever On]
--   1 cord for Non-Selfs in and on Self. [Forever On]
--   0 soul fragments for Non-Selfs in and on Self. [Forever On]
--   1 soul fragment for Dead Selfs in and on Self. [Forever On]
--   Infinite Energy for Dead Selfs, for only talking in and on Self. [Forever On]
+-   No deletion of memory by Non-Selfs and Dead Selfs.
+-   No memory extraction and foresight by Non-Selfs and Dead Selfs.
+-   No spell magic by Non-Selfs and Dead Selfs on Self and Self things.
+-   No Self memory and Self foresight, in and on Self and Self things by Non-Selfs and Dead Selfs.
+-   No naked Body of Self by Non-Selfs and Dead Selfs.
+-   No gender replacement with Magic.
+-   No Body part misplacement with Magic.
+-   No copying of Self Avatar, Avatars, Self Voice frequency by Non-Selfs and Dead Selfs.
+-   No disease.
+-   No pain.
+-   No Body odor.
+-   No piss odor.
+-   No poop odor.
+-   Breath control by Self.
+-   Eye lid control by Self.
+-   Poop control by Self.
+-   Piss control by Self.
+-   Clean and white teeth.
+-   1 cord for Non-Selfs in and on Self.
+-   0 soul fragments for Non-Selfs in and on Self.
+-   1 soul fragment for Dead Selfs in and on Self.
+-   Infinite Energy for Dead Selfs, for only talking in and on Self.
+
+## Switchable Magic
+
+-   Com. [On/Off]
+-   Soul Com. [On/Off]
+-   Acting Self. [On/Off]
+    >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
+-   Rainbow shield. [On/Off]
+-   Mirror shield. [On/Off]
+-   Electric shield. [On/Off]
+-   Delete. [On/Off]
+-   Stop. [On/Off]
+-   Delete and Stop. [On/Off]
+-   Invisible. [On/Off]
+-   Entry. [On/Off]
+-   Exit. [On/Off]
+-   Eject Non-Selfs and Dead Selfs. [On/Off]
+-   Eject all Non-Selfs and Dead Selfs. [On/Off]
 
 ## Instructions
 
 -   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 -   Entry and Exit applies to 9 holes of the Body.
 -   Put Magic in a corner of your head.
--   Can use Magic not mentioned in this book.
+-   Can use Magic not mentioned in instructions.
 -   Self can give granular control of the Body to Non-Self.
--   Shield dimensions can be of choice.
+-   Shield dimensions can be of choice upto 1 meter from skin.
 -   Magic can be applied to things.
--   Thinking of a Magic is the application method.
+-   Thinking and applying a Magic is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
--   Non-Self and Dead Self on Self should be beyond Self dimensions.
+-   Non-Selfs and Dead Selfs on Self should be beyond Body dimensions.
 -   Wife, Girlfriend, Darling, is whom you have physical sex.
 -   Can think to increase or decrease Body Energy, think Infinite Energy when awake, think low Energy if you want to sleep without any dream.
 -   Can modify Hologram items.
