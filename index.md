@@ -1,4 +1,5 @@
-# Self is the controller
+## The only Magic book
+**Self is the controller.**
 
 ## Magic in 3 modes [Once, Switch{On/Off}, Forever On]
 
