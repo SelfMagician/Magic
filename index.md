@@ -12,7 +12,7 @@
 -   Soul Com. [Switch{On/Off}]
 -   Avatars. [Forever On]
 -   Avatar Names. [Forever On]
--   Avatar modification only by Self. [Forever On]
+-   Self things. [Forever On]
 -   Acting Self. [Switch{On/Off}]
     >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
 -   Language books. [Forever On]
@@ -46,7 +46,7 @@
 -   No naked Body of Self by Non-Selfs and Dead Selfs. [Forever On]
 -   No gender replacement with Magic. [Forever On]
 -   No Body part misplacement with Magic. [Forever On]
--   No copying of Self, Self Avatars, Self Voice by Non-Self and Dead Self. [Forever On]
+-   No copying of Self Avatar, Avatars, Self Voice frequency by Non-Selfs and Dead Selfs. [Forever On]
 -   No disease. [Forever On]
 -   No pain. [Forever On]
 -   No Body odor. [Forever On]
@@ -57,10 +57,10 @@
 -   Poop control by Self. [Forever On]
 -   Piss control by Self. [Forever On]
 -   Clean and white teeth. [Forever On]
--   1 cord for Non-Self in and on Self. [Forever On]
--   0 soul fragments for Non-Self in and on Self. [Forever On]
--   1 soul fragment for Dead Self in and on Self. [Forever On]
--   Infinite Energy for Dead Self, for only talking in and on Self. [Forever On]
+-   1 cord for Non-Selfs in and on Self. [Forever On]
+-   0 soul fragments for Non-Selfs in and on Self. [Forever On]
+-   1 soul fragment for Dead Selfs in and on Self. [Forever On]
+-   Infinite Energy for Dead Selfs, for only talking in and on Self. [Forever On]
 
 ## Instructions
 
