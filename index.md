@@ -61,34 +61,35 @@
 -   Invisible. [On/Off]
 -   Entry. [On/Off]
 -   Exit. [On/Off]
--   Eject Non-Selfs and Dead Selfs. [On/Off]
--   Eject all Non-Selfs and Dead Selfs. [On/Off]
+
+## Usable Magic
+
+-   Eject Non-Selfs and Dead Selfs.
+-   Eject all Non-Selfs and Dead Selfs.
+-   Increase or decrease Body Energy, think Infinite Energy when awake, think low Energy if you want to sleep without any dream.
+-   Modify Hologram items.
+-   Modify taste and smell, of an edible.
+-   Modify smell and taste, of an inhalation.
+-   Modify room temperature in celsius or fahrenheit.
+-   Modify body temperature in celsius or fahrenheit.
+-   Modify nail growth rate in time.
+-   Modify hair growth rate in time and modify color.
+-   Modify hair growth in unnecessary places.
+-   Modify armpit odor.
+-   Modify sweat odor.
+-   Modify mouth odor.
 
 ## Instructions
 
 -   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 -   Entry and Exit applies to 9 holes of the Body.
 -   Put Magic in a corner of your head.
--   Can use Magic not mentioned in instructions.
--   Self can give granular control of the Body to Non-Self.
+-   Can use Magic not mentioned in these instructions.
 -   Shield dimensions can be of choice upto 1 meter from skin.
 -   Magic can be applied to things.
--   Thinking and applying a Magic is the application method.
+-   Thinking Magic and applying with a trigger is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
--   Non-Selfs and Dead Selfs on Self should be beyond Body dimensions.
 -   Wife, Girlfriend, Darling, is whom you have physical sex.
--   Can think to increase or decrease Body Energy, think Infinite Energy when awake, think low Energy if you want to sleep without any dream.
--   Can modify Hologram items.
--   Can modify taste and smell, of an edible.
--   Can modify smell and taste, of an inhalation.
--   Can modify room temperature in celsius or fahrenheit.
--   Can modify body temperature in celsius or fahrenheit.
--   Can modify nail growth rate in time.
--   Can modify hair growth rate in time and modify color.
--   Can modify hair growth in unnecessary places.
--   Can modify armpit fragrance.
--   Can modify sweat fragrance.
--   Can modify mouth fragrance.
 
 ## Warnings
 
