@@ -65,6 +65,7 @@
 
 -   Eject Non-Selfs and Dead Selfs.
 -   Eject all Non-Selfs and Dead Selfs.
+-   No Magic on and in a house except by Selfs living in it.
 -   Increase or decrease Body Energy, think Infinite Energy when awake, think low Energy if you want to sleep without any dream.
 -   Modify Hologram items.
 -   Modify taste and smell, of an edible.
