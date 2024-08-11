@@ -13,7 +13,6 @@
 -   Self things.
 -   Language books.
 -   Translation books.
--   Signal idenfication.
 -   Souls, Soul fragments and Cords color.
 -   Head top ring with color for Non-Selfs and Dead Selfs.
 -   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Selfs and Dead Selfs.
