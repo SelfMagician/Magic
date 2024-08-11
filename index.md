@@ -1,4 +1,4 @@
-# Controller is Self.
+# Self is the controller.
 
 ## Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 
