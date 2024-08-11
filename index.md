@@ -10,7 +10,7 @@ Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Acting Self. [Switch{On/Off}]
 -   Visual View. [Forever On]
 -   Hologram. [Forever On]
--   Avatars. [Once, Switch{On/Off}, Forever On]
+-   Avatars. [Forever On]
 -   No spell Magic. [Forever On]
 -   Magic by Self overrides any magic. [Forever On]
 -   Com. [Switch{On/Off}]
