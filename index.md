@@ -46,7 +46,7 @@
 -   1 soul fragment for Dead Selfs in and on Self.
 -   Infinite Energy for Dead Selfs, for only talking in and on Self.
 
-## Switchable Magic
+## Switchable Trigger Magic
 
 -   Com. [On/Off]
 -   Soul Com. [On/Off]
@@ -62,7 +62,7 @@
 -   Entry. [On/Off]
 -   Exit. [On/Off]
 
-## Usable Magic
+## Trigger Magic
 
 -   Eject Non-Selfs and Dead Selfs.
 -   Eject all Non-Selfs and Dead Selfs.
