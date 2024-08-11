@@ -19,7 +19,7 @@ Magic in 3 modes [Once, Switch{On/Off}, Forever On]:
 -   Avatar acts as Electric shield. [Forever On]
 -   Avatar modification by Self. [Forever On]
 -   Acting Self. [Switch{On/Off}]
->   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
+    >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
 -   Language books. [Forever On]
 -   Translation books. [Forever On]
 -   Rainbow shield. [Switch{On/Off}]
