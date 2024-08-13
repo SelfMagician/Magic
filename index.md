@@ -87,6 +87,7 @@
 -   Thinking Magic and applying with a trigger is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
 -   Husband, Boyfriend, Wife, Girlfriend, is whom you have physical sex.
+-   Don't attach keywords to MindSphere.
 
 ## Warnings
 
