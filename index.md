@@ -1,4 +1,4 @@
-# Magic
+# Magic Book
 **Self is the controller.**
 
 ## Magic Switched On Forever
