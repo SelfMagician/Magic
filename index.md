@@ -20,6 +20,7 @@
 -   Infinite Magic units for Self.
 -   Infinite Cords and Soul fragments for Self.
 -   Infinite Avatars for Self.
+-   Infinite Energy for Dead Selfs, for talking in and on Self.
 -   Magic by Non-Selfs and Dead Selfs in and on Self and Self things is disabled.
 -   Magic by spells is disabled.
 -   Magic to replace gender is disabled.
@@ -43,7 +44,6 @@
 -   1 cord for Non-Selfs in and on Self.
 -   0 soul fragments for Non-Selfs in and on Self.
 -   1 soul fragment for Dead Selfs in and on Self.
--   Infinite Energy for Dead Selfs, for only talking in and on Self.
 
 ## Switchable Magic
 
