@@ -57,7 +57,7 @@
 -   Electric shield. [On/Off]
 -   Invisible. [On/Off]
 -   Entry. [On/Off]
--   Exit. [On/Off]
+    >   9 holes of the Body.
 
 ## Actionable Magic
 
@@ -81,7 +81,6 @@
 ## Instructions
 
 -   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
--   Entry and Exit applies to 9 holes of the Body.
 -   Put Magic in a corner of your head.
 -   Can use Magic not mentioned in this book.
 -   Shield dimensions can be of choice upto 1 meter from skin.
