@@ -85,7 +85,7 @@
 ## Instructions
 
 -   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
--   Put Magic in a corner of your head.
+-   Put Magic related to Self in a corner of your head.
 -   Can use Magic not mentioned in this book.
 -   Shield dimensions can be of choice upto 1 meter from skin.
 -   Magic can be applied to Self things.
