@@ -15,20 +15,20 @@
 -   Translation books.
 -   Souls, Soul fragments and Cords color.
 -   Head top ring with color for Non-Selfs and Dead Selfs.
--   Looking and touching Wife, Girlfriend, Darling, gives Self and overrides Non-Selfs and Dead Selfs.
+-   Looking and touching Husband, Boyfriend, Wife, Girlfriend, gives Self and overrides Non-Selfs and Dead Selfs.
 -   Infinite Energy for Self.
 -   Infinite Magic units for Self.
 -   Infinite Cords and Soul fragments for Self.
 -   Infinite Avatars for Self.
 -   Magic by Non-Selfs and Dead Selfs in and on Self and Self things is disabled.
--   No spell Magic.
+-   Magic by spells is disabled.
+-   Magic to replace gender is disabled.
+-   Magic to misplace body parts is disabled.
 -   No Non-Selfs and Dead Selfs in and on Self things.
 -   No deletion of memory by Non-Selfs and Dead Selfs.
 -   No memory extraction and foresight by Non-Selfs and Dead Selfs.
 -   No Self memory and Self foresight, in and on Self and Self things by Non-Selfs and Dead Selfs.
 -   No naked Body of Self by Non-Selfs and Dead Selfs.
--   No gender replacement with Magic.
--   No Body part misplacement with Magic.
 -   No copying of Self Avatar, Avatars, Self Voice frequency by Non-Selfs and Dead Selfs.
 -   No disease.
 -   No pain.
@@ -87,7 +87,7 @@
 -   Magic can be applied to Self things.
 -   Thinking Magic and applying with a trigger is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
--   Wife, Girlfriend, Darling, is whom you have physical sex.
+-   Husband, Boyfriend, Wife, Girlfriend, is whom you have physical sex.
 
 ## Warnings
 
