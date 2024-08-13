@@ -47,7 +47,9 @@
 ## Switchable Magic
 
 -   Com. [On/Off]
+    >   MindSphere and RadioSphere clones outside the Body for communication.
 -   Soul Com. [On/Off]
+    >   SoulSphere clone outside the Body for feelings exchange.
 -   Acting Self. [On/Off]
     >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
 -   Rainbow shield. [On/Off]
