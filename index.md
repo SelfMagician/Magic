@@ -116,4 +116,4 @@ Helped by Ke also called as Enki, Bhairava, Shiva, Shivayya, Mahesvarudu, Shivud
 
 Astral Plane distribution by En and Ke.
 
-**Owned by En, Un, Ke, An**
+**Owned by En, Un, Ke, An.**
