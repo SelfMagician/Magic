@@ -57,8 +57,6 @@
 -   Shield. [On/Off]
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
--   Invisible. [On/Off]
-    >   Applies to Magic, Self, Non-Selfs, Dead Selfs.
 -   Entry. [On/Off]
     >   9 holes of the Body.
 
