@@ -54,15 +54,13 @@
 -   Rainbow shield. [On/Off]
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
--   Delete. [On/Off]
--   Stop. [On/Off]
--   Delete and Stop. [On/Off]
 -   Invisible. [On/Off]
 -   Entry. [On/Off]
 -   Exit. [On/Off]
 
 ## Actionable Magic
 
+-   Delete and Stop.
 -   Eject Non-Selfs and Dead Selfs.
 -   Eject all Non-Selfs and Dead Selfs.
 -   No Magic on and in a house except by Selfs living in it.
