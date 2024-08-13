@@ -50,17 +50,17 @@
 **Switches on or off, default is off.**
 
 -   Com. [On/Off]
-    >   MindSphere and RadioSphere clones outside the Body for communication.
+    -   MindSphere and RadioSphere clones outside the Body for communication.
 -   Soul Com. [On/Off]
-    >   SoulSphere clone outside the Body for feelings exchange.
-    >   Magical Soul Bond.
+    -   SoulSphere clone outside the Body for feelings exchange.
+    -   Magical Soul Bond.
 -   Acting Self. [On/Off]
-    >   1 God or 1 Non-Self or 1 Dead Self acts as Self.
+    -   1 God or 1 Non-Self or 1 Dead Self acts as Self.
 -   Shield. [On/Off]
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
 -   Entry. [On/Off]
-    >   9 holes of the Body.
+    -   9 holes of the Body.
 
 ## Actionable Magic
 **Switches on forever when triggered, can modify or delete.**
