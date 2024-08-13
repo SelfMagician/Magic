@@ -93,9 +93,9 @@
 
 ## Warnings
 
--   Entry Warning: Body has 9 holes through which Cords and Soul fragments enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
--   Entry Warning: Self Soul can be bonded with Non-Self Soul and be manipulated, avoid manipulation.
--   Entry Warning: Self can be manipulated by Cords and Soul fragments in Brain, avoid manipulation.
+-   Acting Self Warning: Don't give acting self to Gods, Non-Selfs, Dead Selfs whom you do not trust.
+-   Entry Warning: Body has 9 holes through which Non-Selfs and Dead Selfs enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
+-   Entry Warning: Self Soul can be attached with Non-Selfs and Dead Selfs which causes manipulation, avoid manipulation.
 
 ## Spheres
 ![Etheric Body](https://raw.githubusercontent.com/SelfMagician/SelfMagic/main/Etheric-Body.JPG)
