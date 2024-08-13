@@ -4,7 +4,7 @@
 ## Magic Switched On Forever
 
 -   Magic by Self overrides any magic.
--   Visual View.
+-   Dashboard.
 -   Hologram.
 -   Original Names.
 -   Original personal identity with creamy white color.
