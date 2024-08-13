@@ -104,7 +104,7 @@
 -   Entry Warning: Self Soul can be attached with Non-Selfs and Dead Selfs which causes manipulation, avoid manipulation.
 
 ## Spheres
-![Etheric Body](https://github.com/SelfMagician/selfmagician.github.io/blob/16c0318dc55983ba3f66acb2ae0a51c0145be8fd/Etheric-Body.JPG)
+![Etheric Body](https://raw.githubusercontent.com/SelfMagician/selfmagician.github.io/16c0318dc55983ba3f66acb2ae0a51c0145be8fd/Etheric-Body.JPG)
 -   LightSphere.
 -   MindSphere.
 -   RadioSphere.
