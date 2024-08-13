@@ -51,7 +51,7 @@
 -   Soul Com. [On/Off]
     >   SoulSphere clone outside the Body for feelings exchange.
 -   Acting Self. [On/Off]
-    >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
+    >   1 God or 1 Non-Self or 1 Dead Self acts as Self.
 -   Shield. [On/Off]
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
