@@ -62,6 +62,7 @@
     >   9 holes of the Body.
 
 ## Actionable Magic
+**Switches on forever when applied, can modify or delete.**
 
 -   Delete and Stop.
 -   Eject Non-Selfs and Dead Selfs.
