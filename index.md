@@ -1,4 +1,4 @@
-## The Only Magic Book
+## Magic
 **Self is the controller.**
 
 ## Magic Switched On Forever
