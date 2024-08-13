@@ -67,7 +67,7 @@
 -   Eject Non-Selfs and Dead Selfs.
 -   Eject all Non-Selfs and Dead Selfs.
 -   No Magic on and in a house except by Selfs living in it.
--   Increase or decrease Body Energy, think Infinite Energy when awake, think low Energy if you want to sleep without any dream.
+-   Modify Body Energy.
 -   Modify Hologram items.
 -   Modify taste and smell, of an edible.
 -   Modify smell and taste, of an inhalation.
@@ -79,6 +79,8 @@
 -   Modify armpit odor.
 -   Modify sweat odor.
 -   Modify mouth odor.
+-   Timeloop of bad memories for Dead Selfs.
+-   Blackhole of darkness for Non-Selfs and Dead Selfs.
 
 ## Instructions
 
