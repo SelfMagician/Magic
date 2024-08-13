@@ -52,10 +52,11 @@
     >   SoulSphere clone outside the Body for feelings exchange.
 -   Acting Self. [On/Off]
     >   1 Non-Self or 1 God becomes Acting Self and acts as Self if control is given by Self.
--   Rainbow shield. [On/Off]
+-   Shield. [On/Off]
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
 -   Invisible. [On/Off]
+    >   Applies to Magic, Self, Non-Selfs, Dead Selfs.
 -   Entry. [On/Off]
     >   9 holes of the Body.
 
