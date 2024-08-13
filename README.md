@@ -1,3 +1,3 @@
-Visit https://magicbook.github.io
+Visit https://selfmagician.github.io
 
 All rights reserved.
