@@ -7,7 +7,8 @@
 -   Dashboard.
 -   Hologram.
 -   Original Names.
--   Original personal identity with creamy white color.
+-   Original personal identity.
+-   Self Avatar with creamy white color.
 -   Avatars.
 -   Avatar Names.
 -   Self things.
