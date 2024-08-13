@@ -20,8 +20,8 @@
 -   Infinite Magic units for Self.
 -   Infinite Cords and Soul fragments for Self.
 -   Infinite Avatars for Self.
+-   Magic by Non-Selfs and Dead Selfs in and on Self and Self things is disabled.
 -   No spell Magic.
--   No Non-Selfs and Dead Selfs magic in and on Self and Self things.
 -   No Non-Selfs and Dead Selfs in and on Self things.
 -   No deletion of memory by Non-Selfs and Dead Selfs.
 -   No memory extraction and foresight by Non-Selfs and Dead Selfs.
