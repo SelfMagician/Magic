@@ -56,6 +56,7 @@
     -   Magical Soul Bond.
 -   Acting Self. [On/Off]
     -   1 God or 1 Non-Self or 1 Dead Self acts as Self.
+    -   Avatar above skin.
 -   Shield. [On/Off]
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
