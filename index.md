@@ -46,6 +46,7 @@
 -   1 soul fragment for Dead Selfs in and on Self.
 
 ## Switchable Magic
+**Switches on or off.**
 
 -   Com. [On/Off]
     >   MindSphere and RadioSphere clones outside the Body for communication.
