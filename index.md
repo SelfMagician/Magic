@@ -20,7 +20,6 @@
 -   Infinite Magic units for Self.
 -   Infinite Cords and Soul fragments for Self.
 -   Infinite Avatars for Self.
--   Infinite Energy for Dead Selfs, for talking in and on Self.
 -   Magic by Non-Selfs and Dead Selfs in and on Self and Self things is disabled.
 -   Magic by spells is disabled.
 -   Magic to replace gender is disabled.
