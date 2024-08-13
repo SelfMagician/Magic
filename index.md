@@ -110,10 +110,18 @@
 -   CreationSphere.
 -   TransformationSphere.
 
-Written by Un also called as Bha, Bhargav Kandimalla, Bobby.
+## Written by
+Un also called as Bha, Bhargav Kandimalla, Bobby.
 
-Helped by Ke also called as Enki, Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki. An also called as Brahma, Zeus, Odin. En also called as Enlil, Vishnu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
+## Helped by 
+En also called as Enlil, Vishnu, Vishnu Murty, Narayanudu, Venkateswara Swamy, Ares, Thor.
 
-Astral Plane distribution by En and Ke.
+Ke also called as Enki, Bhairava, Shiva, Shivayya, Mahesvarudu, Shivudu, Hephaestus, Loki.
 
-**Owned by En, Un, Ke, An.**
+An also called as Brahma, Zeus, Odin.
+
+## Astral Plane distribution by
+En, Ke, An.
+
+## Owned by
+**En, Un, Ke, An.**
