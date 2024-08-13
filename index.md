@@ -81,7 +81,7 @@
 -   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 -   Entry and Exit applies to 9 holes of the Body.
 -   Put Magic in a corner of your head.
--   Can use Magic not mentioned in these instructions.
+-   Can use Magic not mentioned in this book.
 -   Shield dimensions can be of choice upto 1 meter from skin.
 -   Magic can be applied to Self things.
 -   Thinking Magic and applying with a trigger is the application method.
