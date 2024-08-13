@@ -1,7 +1,8 @@
 # Magic Book
 **Self is the controller.**
 
-## Magic Switched On Forever
+## Forever Magic
+**Switched on forever.**
 
 -   Magic by Self overrides any magic.
 -   Dashboard.
