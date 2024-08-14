@@ -89,10 +89,10 @@
 
 ## Instructions
 
--   Put Magic related to Self in a corner of your head.
 -   Can use Magic not mentioned in this book.
--   Magic can be applied to Self things.
+-   Put Magic related to Self in a corner of your head.
 -   Thinking Magic and applying with an imaginary trigger is the application method.
+-   Magic can be applied to Self things.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
 -   Husband, Boyfriend, Wife, Girlfriend, is whom you have physical sex.
 -   Don't attach keywords to MindSphere.
