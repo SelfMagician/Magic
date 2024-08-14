@@ -52,6 +52,8 @@
 ## Switchable Magic
 **Switches on or off, default is off.**
 
+-   Entry. [On/Off]
+    > 9 holes of the Body.
 -   Com. [On/Off]
     > MindSphere and RadioSphere clones outside the Body for communication.
 -   Soul Com. [On/Off]
@@ -61,8 +63,6 @@
 -   Shield. [On/Off]
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
--   Entry. [On/Off]
-    > 9 holes of the Body.
 
 ## Actionable Magic
 **Switches on forever when triggered, can modify or delete.**
