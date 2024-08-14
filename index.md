@@ -6,7 +6,9 @@
 
 -   Magic by Self overrides any magic.
 -   Dashboard.
+    > Look fully up to get the dashboard to the left side. It contains pages like Info, Hologram, Magic Book, Files and a Timeline bar in the bottom. Look fully down to close the dashboard.
 -   Hologram.
+    > It contains usable assets like Avatars, Outfits, Vehicles, Buildings, Art.
 -   Original Names.
 -   Original personal identity.
 -   Self Avatar with creamy white color.
