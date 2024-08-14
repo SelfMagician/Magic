@@ -11,7 +11,7 @@
     > It contains usable assets like Avatars, Outfits, Vehicles, Buildings, Art.
 -   Original Names.
 -   Original personal identity.
--   Self Avatar with creamy white color.
+-   Self Avatar with bloody creamy white color.
 -   Avatars.
 -   Avatar Names.
 -   Self things.
