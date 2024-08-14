@@ -61,6 +61,7 @@
 -   Acting Self. [On/Off]
     > 1 God or 1 Non-Self or 1 Dead Self acts as Self. Avatar above skin.
 -   Shield. [On/Off]
+    > Upto 1 meter above skin.
 -   Mirror shield. [On/Off]
 -   Electric shield. [On/Off]
 
@@ -88,16 +89,14 @@
 
 ## Instructions
 
--   Use Com for MindSphere and RadioSphere communication, Soul Com for SoulSphere feelings exchange.
 -   Put Magic related to Self in a corner of your head.
 -   Can use Magic not mentioned in this book.
--   Shield dimensions can be of choice upto 1 meter from skin.
 -   Magic can be applied to Self things.
--   Thinking Magic and applying with a trigger is the application method.
+-   Thinking Magic and applying with an imaginary trigger is the application method.
 -   A thing becomes Self thing when looked by Self with the intent of ownership, and the originally looked Self should give consent for replacement of ownership to another Self.
 -   Husband, Boyfriend, Wife, Girlfriend, is whom you have physical sex.
 -   Don't attach keywords to MindSphere.
--   Actionable Magic can be given away.
+-   Actionable Magic can be given away after application.
 
 ## Warnings
 
