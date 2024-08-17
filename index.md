@@ -4,7 +4,7 @@
 ## Forever Magic
 **Switched on forever.**
 
--   Magic by Self overrides any magic.
+-   Magic by Self overrides any Magic.
 -   Dashboard.
     > Look fully up to get the dashboard to the left side. It contains pages like Info, Hologram, Magic Book, Files and a Timeline bar in the bottom. Look fully down to close the dashboard.
 -   Hologram.
