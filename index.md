@@ -72,6 +72,7 @@
 -   Eject Non-Selfs and Dead Selfs.
 -   Eject all Non-Selfs and Dead Selfs.
 -   No Magic on and in a house except by Selfs living in it.
+-   Modify Self Avatar age.
 -   Modify Body Energy.
 -   Modify Hologram items.
 -   Modify taste and smell, of an edible.
