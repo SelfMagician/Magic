@@ -58,8 +58,6 @@
     > MindSphere and RadioSphere clones outside the Body for communication.
 -   Soul Com. [On/Off]
     > SoulSphere clone outside the Body for feelings exchange.
--   Acting Self. [On/Off]
-    > 1 God or 1 Non-Self or 1 Dead Self acts as Self. Can pick another. Avatar above skin. No Magic.
 -   Shield. [On/Off]
     > Upto 1 meter above skin.
 -   Mirror shield. [On/Off]
@@ -101,7 +99,6 @@
 
 ## Warnings
 
--   Acting Self Warning: Don't give acting self to Gods, Non-Selfs, Dead Selfs whom you do not trust.
 -   Entry Warning: Body has 9 holes through which Non-Selfs and Dead Selfs enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
 -   Entry Warning: Self Soul can be attached with Non-Selfs and Dead Selfs which causes manipulation, avoid manipulation.
 
@@ -119,14 +116,16 @@
 B also called as Bhargav Kandimalla, Bobby.
 
 ## Helped by 
-E also called as Enli, Vishnu Murty, Narayanudu, Venkateswara Swamy.
+E also called as Enlil, Vishnu Murty, Narayanudu, Venkateswara Swamy.
 
 K also called as Enki, Bhairava, Mahesvarudu, Shivudu.
 
-A also called as Brahma.
+A also called as An, Brahma.
+
+Some Humans and Non-Human Souls.
 
 ## Astral Plane distribution by
-E, K, A.
+B, E, K, A.
 
 ## Owned by
 **B, E, K, A.**
