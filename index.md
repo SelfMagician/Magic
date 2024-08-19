@@ -116,11 +116,11 @@
 B also called as Bhargav Kandimalla, Bobby.
 
 ## Helped by 
-E also called as Enlil, Vishnu Murty, Narayanudu, Venkateswara Swamy.
+E and N also called as Enlil and Ninlil, Vishnu Murty and Lakshmi Devi.
 
-K also called as Enki, Bhairava, Mahesvarudu, Shivudu.
+K and S also called as Enki and Ninhursag, Shivudu and Parvati Devi.
 
-A also called as An, Brahma.
+A and I also called as An and Ki, Brahma Devudu and Sarawati Devi.
 
 Some Humans and Non-Human Souls.
 
