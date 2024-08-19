@@ -118,10 +118,9 @@ Magic Book persists in all Spheres.
 -   Entry Warning: Body has 9 holes through which Non-Selfs and Dead Selfs enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
 -   Entry Warning: Self Soul can be attached with Non-Selfs and Dead Selfs which causes manipulation, avoid manipulation.
 
-## Written by
-B also called as Bhargav Kandimalla, Bobby.
+## Written and Owned by
+B and V also called as Bhargav Kandimalla and Anusha Pettugari.
 
-## Helped by 
 E and N also called as Enlil and Ninlil, Vishnu Murty and Lakshmi Devi.
 
 K and S also called as Enki and Ninhursag, Shivudu and Parvati Devi.
@@ -129,7 +128,4 @@ K and S also called as Enki and Ninhursag, Shivudu and Parvati Devi.
 A and I also called as An and Ki, Brahma Devudu and Sarawati Devi.
 
 ## Astral Plane distribution by
-B, E, K, A.
-
-## Owned by
-**B, E, K, A.**
+B, V, E, N, K, S, A, I.
