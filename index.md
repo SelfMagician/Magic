@@ -103,8 +103,11 @@
 -   Entry Warning: Body has 9 holes through which Non-Selfs and Dead Selfs enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
 -   Entry Warning: Self Soul can be attached with Non-Selfs and Dead Selfs which causes manipulation, avoid manipulation.
 
-## Spheres
+## Etheric Body
 ![Etheric Body](https://raw.githubusercontent.com/SelfMagician/selfmagician.github.io/16c0318dc55983ba3f66acb2ae0a51c0145be8fd/Etheric-Body.JPG)
+
+Etheric Body is 3d and contains the following Spheres:
+
 -   LightSphere.
 -   MindSphere.
 -   RadioSphere.
