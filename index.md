@@ -108,13 +108,13 @@
 
 Etheric Body is three-dimensional and contains the following Spheres:
 
--   LightSphere.
--   MindSphere.
--   RadioSphere.
--   SoulSphere.
--   EnergySphere.
--   CreationSphere.
--   TransformationSphere.
+-   Light Sphere.
+-   Mind Sphere.
+-   Radio Sphere.
+-   Soul Sphere.
+-   Energy Sphere.
+-   Creation Sphere.
+-   Transformation Sphere.
 
 ## Written by
 B also called as Bhargav Kandimalla, Bobby.
