@@ -106,7 +106,7 @@
 ## Etheric Body
 ![Etheric Body](https://raw.githubusercontent.com/SelfMagician/selfmagician.github.io/16c0318dc55983ba3f66acb2ae0a51c0145be8fd/Etheric-Body.JPG)
 
-Etheric Body is 3d and contains the following Spheres:
+Etheric Body is three-dimensional and contains the following Spheres:
 
 -   LightSphere.
 -   MindSphere.
