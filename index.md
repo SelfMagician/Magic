@@ -126,8 +126,6 @@ K and S also called as Enki and Ninhursag, Shivudu and Parvati Devi.
 
 A and I also called as An and Ki, Brahma Devudu and Sarawati Devi.
 
-Some Humans and Non-Human Souls.
-
 ## Astral Plane distribution by
 B, E, K, A.
 
