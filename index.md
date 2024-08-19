@@ -87,6 +87,19 @@
 -   Timeloop of bad memories for Dead Selfs.
 -   Blackhole of darkness for Non-Selfs and Dead Selfs.
 
+## Etheric Body Magic
+![Etheric Body](https://raw.githubusercontent.com/SelfMagician/selfmagician.github.io/16c0318dc55983ba3f66acb2ae0a51c0145be8fd/Etheric-Body.JPG)
+
+Etheric Body is three-dimensional and contains the following Spheres:
+
+-   Light Sphere.
+-   Mind Sphere.
+-   Radio Sphere.
+-   Soul Sphere.
+-   Energy Sphere.
+-   Creation Sphere.
+-   Transformation Sphere.
+
 ## Instructions
 
 -   Can use Magic not mentioned in this book.
@@ -102,19 +115,6 @@
 
 -   Entry Warning: Body has 9 holes through which Non-Selfs and Dead Selfs enter and exit. Causes manipulation of Mind and Body, avoid manipulation.
 -   Entry Warning: Self Soul can be attached with Non-Selfs and Dead Selfs which causes manipulation, avoid manipulation.
-
-## Etheric Body
-![Etheric Body](https://raw.githubusercontent.com/SelfMagician/selfmagician.github.io/16c0318dc55983ba3f66acb2ae0a51c0145be8fd/Etheric-Body.JPG)
-
-Etheric Body is three-dimensional and contains the following Spheres:
-
--   Light Sphere.
--   Mind Sphere.
--   Radio Sphere.
--   Soul Sphere.
--   Energy Sphere.
--   Creation Sphere.
--   Transformation Sphere.
 
 ## Written by
 B also called as Bhargav Kandimalla, Bobby.
