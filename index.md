@@ -67,6 +67,7 @@
 **Switches on forever when triggered, can modify or delete.**
 
 -   Delete and Stop any Magic.
+-   Delete and Stop all Magic.
 -   Eject Non-Selfs and Dead Selfs.
 -   Eject all Non-Selfs and Dead Selfs.
 -   No Magic on and in a house except by Selfs living in it.
