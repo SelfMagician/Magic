@@ -100,6 +100,8 @@ Etheric Body is three-dimensional and contains the following Spheres:
 -   Creation Sphere.
 -   Transformation Sphere.
 
+Magic Book persists in all Spheres.
+
 ## Instructions
 
 -   Can use Magic not mentioned in this book.
