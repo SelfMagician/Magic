@@ -55,9 +55,9 @@
 -   Entry. [On/Off]
     > 9 holes of the Body.
 -   Com. [On/Off]
-    > MindSphere and RadioSphere clones outside the Body for communication.
+    > MindSphere and RadioSphere clones outside the Body for communication. Invisible.
 -   Soul Com. [On/Off]
-    > SoulSphere clone outside the Body for feelings exchange.
+    > SoulSphere clone outside the Body for feelings exchange. Invisible.
 -   Shield. [On/Off]
     > Upto 1 meter above skin.
 -   Mirror shield. [On/Off]
