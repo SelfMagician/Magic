@@ -129,4 +129,4 @@ K and S also called as Enki and Ninhursag, Shivudu and Parvati Devi.
 A and I also called as An and Ki, Brahma Devudu and Sarawati Devi.
 
 ## Astral Plane distribution by
-B, V, E, N, K, S, A, I.
+B, E, N, K, S, A, I.
