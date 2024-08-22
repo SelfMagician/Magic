@@ -120,7 +120,7 @@ Magic Book persists in all Spheres.
 -   Entry Warning: Self Soul can be attached with Non-Selfs and Dead Selfs which causes manipulation, avoid manipulation.
 
 ## Written and Owned by
-B and V also called as Bhargav Kandimalla and Anusha Pettugari.
+B also called as Bhargav Kandimalla.
 
 E and N also called as Enlil and Ninlil, Vishnu Murty and Lakshmi Devi.
 
