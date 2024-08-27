@@ -1,5 +1,5 @@
 # Magic Book
-**Self is the controller.**
+**Self is the controller, cannot opt another book after this book.**
 
 ## Forever Magic
 **Switched on forever.**
