@@ -66,7 +66,7 @@
 ## Actionable Magic
 **Switches on forever when triggered, can modify or delete.**
 
--   Gods and Godesses or Non-Selfs or Dead Selfs can be handlers.
+-   Gods and Godesses or Non-Selfs or Dead Selfs can be picked as controller.
 -   Delete and Stop any Magic.
 -   Delete and Stop all Magic.
 -   Eject Non-Selfs and Dead Selfs.
